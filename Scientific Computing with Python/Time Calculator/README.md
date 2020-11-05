@@ -45,3 +45,4 @@ The unit tests for this project are in `test_module.py`. We imported the tests f
 ### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
+*[Solution](https://repl.it/repls/WiryWeightyRobots?__cf_chl_jschl_tk__=0175ac9f2d6b3a9f3513694f915d455c98ea4314-1604585872-0-AWPhJ9I48_AXCYu-d-zvzU9uzvywgxLe_bRRQFMV-fYzTAk4Lgra3NC6l-l6r_Du3NcDuw6usaI7oPP3CopnwMaKR50qSVvnuJe2m9SSqgGQHRbBXy1iOQmvCDXQbh-AGfj_ggUtGa-arxVAUGf690dJ-jJH_T-D5MsV_6Mxzk6_aLnFD0pY4pLqOLkBCNJxIZxivPaKmABMWlxpl01I2vzOPG3LoMP6zwMXdt3O2n9296cjNT0GsHZ84J7HlPfHNgrc3_HJHRjFfsjzQOLOsQ3lKf7OHzy_SgbFl0GQ5ZSi#time_calculator.py)
